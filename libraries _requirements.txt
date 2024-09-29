@@ -1,0 +1,15 @@
+To be run on jupyter notebook python kernel 3
+python 3.12.4
+
+
+Copy and paste the dataset in the following folder.
+/data/creditcard.csv
+
+Libraries required
+
+install pandas 2.2.2
+install numpy 1.24.4
+install seaborn 0.12.2
+install matplotlib.pyplot 3.7.2
+install sklearn 1.2.2
+install warnings
